@@ -1443,7 +1443,7 @@
               "background-image": "url(@bg-value)"
             },
             "P": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             },
             "H1": {
               "color": "#cccccc"
